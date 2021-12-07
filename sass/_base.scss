@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Arvo");
+
+// base style variables
+$background-color:#CCCCCC;
+$font-color:#000000;
+$base-font-size:12px;
+$font-faces: arial,verdana,sans-serif;
+
+// mixin to implement vendor prefixes when setting display to flexbox
+@mixin display-flex() {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+body {
+    @include display-flex();
+    padding:0;
+    margin:0;
+    justify-content: center;
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+	background: #CCCCCC;
+	color: #000000;	
+}
+
+.loading-overlay {
+    position: fixed;
+    z-index: 999;
+    left:0px;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    overflow: show;
+    margin: auto;
+    display:block;
+    background-color: $background-color;
+}

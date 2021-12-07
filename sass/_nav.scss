@@ -1,0 +1,35 @@
+$background-color:#035074;
+$font-color:#FFFFFF;
+$base-font-size:12px;
+$font-faces: arial,verdana,sans-serif;
+
+.nav {
+    padding-right:20px;
+    padding-bottom:20px;
+    max-width: 800px;
+
+    &__photocounter {
+      padding-left: 30px;
+    }
+
+    &__jumpto {
+      display: none;
+    }
+
+    &__thumbnail {
+      &:hover {
+        border: 5px solid #000000;
+      }
+    }
+    &__comment {
+      display: none;
+    }
+    
+}
+
+// .nav__thumbnail {
+
+
+.img#nav__thumbnail:hover {
+  border: 5px solid black;
+}

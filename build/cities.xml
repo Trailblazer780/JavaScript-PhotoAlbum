@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city><name>Airdrie</name><province>Alberta</province></city>
+    <city><name>Calgary</name><province>Alberta</province></city>    
+    <city><name>Cochrane</name><province>Alberta</province></city>
+    <city><name>Edmonton</name><province>Alberta</province></city>
+    <city><name>Fort McMurray</name><province>Alberta</province></city>
+    <city><name>Grande Prairie</name><province>Alberta</province></city>    
+    <city><name>Leduc</name><province>Alberta</province></city>
+    <city><name>Lethbridge</name><province>Alberta</province></city>
+    <city><name>Lloydminster</name><province>Alberta</province></city>
+    <city><name>Medicine Hat</name><province>Alberta</province></city>
+    <city><name>Okotoks</name><province>Alberta</province></city>
+    <city><name>Red Deer</name><province>Alberta</province></city>
+    <city><name>Spruce Grove</name><province>Alberta</province></city>
+    <city><name>Abbotsford</name><province>British Columbia</province></city>
+    <city><name>Campbell River</name><province>British Columbia</province></city>
+    <city><name>Chilliwack</name><province>British Columbia</province></city>
+    <city><name>Courtenay</name><province>British Columbia</province></city>    
+    <city><name>Kamloops</name><province>British Columbia</province></city>
+    <city><name>Kelowna</name><province>British Columbia</province></city>
+    <city><name>Mission</name><province>British Columbia</province></city>
+    <city><name>Nanaimo</name><province>British Columbia</province></city>
+    <city><name>Penticton</name><province>British Columbia</province></city>
+    <city><name>Prince George</name><province>British Columbia</province></city>
+    <city><name>Vancouver</name><province>British Columbia</province></city>
+    <city><name>Vernon</name><province>British Columbia</province></city>
+    <city><name>Victoria</name><province>British Columbia</province></city>
+    <city><name>White Rock</name><province>British Columbia</province></city>
+    <city><name>Brandon</name><province>Manitoba</province></city>
+    <city><name>Winnipeg</name><province>Manitoba</province></city>
+    <city><name>Fredericton</name><province>New Brunswick</province></city>
+    <city><name>Moncton</name><province>New Brunswick</province></city>
+    <city><name>Rothesay</name><province>New Brunswick</province></city>
+    <city><name>Saint John</name><province>New Brunswick</province></city>
+    <city><name>St Johns</name><province>Newfoundland and Labrador</province></city>
+    <city><name>Halifax</name><province>Nova Scotia</province></city>
+    <city><name>Truro</name><province>Nova Scotia</province></city>
+    <city><name>Sydney</name><province>Nova Scotia</province></city>
+    <city><name>Barrie</name><province>Ontario</province></city>
+    <city><name>Belleville</name><province>Ontario</province></city>
+    <city><name>Bolton</name><province>Ontario</province></city>
+    <city><name>Bowmanville</name><province>Ontario</province></city>
+    <city><name>Bradford</name><province>Ontario</province></city>
+    <city><name>Brantford</name><province>Ontario</province></city>
+    <city><name>Chatham</name><province>Ontario</province></city>
+    <city><name>Cornwall</name><province>Ontario</province></city>
+    <city><name>Georgetown</name><province>Ontario</province></city>
+    <city><name>Guelph</name><province>Ontario</province></city>
+    <city><name>Hamilton</name><province>Ontario</province></city>
+    <city><name>Innisfil</name><province>Ontario</province></city>
+    <city><name>Kanata</name><province>Ontario</province></city>
+    <city><name>Keswick</name><province>Ontario</province></city>
+    <city><name>Kingston</name><province>Ontario</province></city>
+    <city><name>Leamington</name><province>Ontario</province></city>
+    <city><name>London</name><province>Ontario</province></city>
+    <city><name>Midland</name><province>Ontario</province></city>
+    <city><name>Milton</name><province>Ontario</province></city>
+    <city><name>North Bay</name><province>Ontario</province></city>
+    <city><name>Ottawa</name><province>Ontario</province></city>
+    <city><name>Orangeville</name><province>Ontario</province></city>
+    <city><name>Orillia</name><province>Ontario</province></city>    
+    <city><name>Oshawa</name><province>Ontario</province></city>   
+    <city><name>Peterborough</name><province>Ontario</province></city>
+    <city><name>St. Catharines</name><province>Ontario</province></city>
+    <city><name>St. Thomas</name><province>Ontario</province></city>
+    <city><name>Sault Ste. Marie</name><province>Ontario</province></city>
+    <city><name>Sarnia</name><province>Ontario</province></city>
+    <city><name>Stouffville</name><province>Ontario</province></city>
+    <city><name>Stratford</name><province>Ontario</province></city>
+    <city><name>Sudbury</name><province>Ontario</province></city>    
+    <city><name>Timmins</name><province>Ontario</province></city>
+    <city><name>Toronto</name><province>Ontario</province></city>
+    <city><name>Thunder Bay</name><province>Ontario</province></city>
+    <city><name>Waterloo</name><province>Ontario</province></city>
+    <city><name>Welland</name><province>Ontario</province></city>
+    <city><name>Windsor</name><province>Ontario</province></city>
+    <city><name>Woodstock</name><province>Ontario</province></city>
+    <city><name>Charlottetown</name><province>Prince Edward Island</province></city>
+    <city><name>Beloeil</name><province>Quebec</province></city>
+    <city><name>Châteauguay</name><province>Quebec</province></city>
+    <city><name>Chicoutimi</name><province>Quebec</province></city>
+    <city><name>Drummondville</name><province>Quebec</province></city>
+    <city><name>Granby</name><province>Quebec</province></city>
+    <city><name>Joliette</name><province>Quebec</province></city>
+    <city><name>Montreal</name><province>Quebec</province></city>
+    <city><name>Quebec</name><province>Quebec</province></city>
+    <city><name>Rimouski</name><province>Quebec</province></city>
+    <city><name>Saint-Georges</name><province>Quebec</province></city>
+    <city><name>Saint-Hyacinthe</name><province>Quebec</province></city>
+    <city><name>Saint Jerome</name><province>Quebec</province></city>
+    <city><name>Saint Jean-sur-Richelieu</name><province>Quebec</province></city>
+    <city><name>Salaberry-de-Valleyfield</name><province>Quebec</province></city>
+    <city><name>Shawinigan</name><province>Quebec</province></city>
+    <city><name>Sorel-Tracy</name><province>Quebec</province></city>
+    <city><name>Sherbrooke</name><province>Quebec</province></city>
+    <city><name>Trois-Rivieres</name><province>Quebec</province></city>
+    <city><name>Val-d'Or</name><province>Quebec</province></city>    
+    <city><name>Victoriaville</name><province>Quebec</province></city>
+    <city><name>Moose Jaw</name><province>Saskatchewan</province></city>    
+    <city><name>Prince Albert</name><province>Saskatchewan</province></city>
+    <city><name>Regina</name><province>Saskatchewan</province></city>
+    <city><name>Saskatoon</name><province>Saskatchewan</province></city>
+</cities>

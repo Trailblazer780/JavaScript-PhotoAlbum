@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Ethan Farrells Photo Album</title>
+		<link rel="stylesheet" type="text/css" href="./bundle.css" />
+    </head>
+    <body id="changeTxtColor">
+        <div id="makeInvisible"class="loading-overlay"></div>
+
+        <div class="main">
+            <div class="header">
+                <div class="header__title">Ethan's Photo Album Web App V1.0</div>
+            </div>
+
+            <div class="nav">
+                <div class="row">
+                    <button type="button" id="btnPrevious">Previous</button>
+                    <button type="button" id="btnNext">Next</button>
+                    <button type="button" id="btnJump">Jump</button>
+                    <button type="button" id="btnComment">Comment</button>
+                    <div class="nav__photocounter" id="photoCounter"></div>
+                </div>
+                <div class="row">
+                    <div class="nav__jumpto" id="jumpToTarget">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="nav__comment" id="commentMenu">
+                        <div class="row">
+                            <div class="row">Author:</div>
+                            <div class="row"><input type="text" id="commentAuthor" name="author" maxlength="26"></div>
+                        </div>
+                        <div class="row">
+                            <div class="row">Comment (200 Characters):</div>
+                            <textarea id="commentContent" name="comment" rows="5" cols="30" maxlength="200"></textarea>
+                        </div>
+                        <div class="row">
+                            <button type="button" id="btnOk">Ok</button>
+                            <button type="button" id="btnCancel">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="content__picture">
+                    <p id="NoImage" style="display: none;">There are no images to display.</p>
+                    <img id="mainPicture" src=""/>
+                </div>
+                <div class="content__title" id="mainPictureTitle"></div>
+                <div class="content__caption" id="mainPictureCaption"></div>
+                <div class="content__comment" id="mainPictureComments">
+
+                </div>
+            </div>
+
+        </div>
+
+        <img src="" id="sampleimgtemplate" class="nav__thumbnail" style="display: none; width: 50px; height: 50px; float: left;"/>
+        <div class="content_commentcontent" id="samplecommenttemplate" style="display: none;">
+            <div id="retrievedCommentAuthor"></div>
+            <div id="retrievedCommentContent"></div><br>
+        </div>
+
+        <script type="text/javascript" src="./bundle.js"></script>       
+    </body>
+</html>
