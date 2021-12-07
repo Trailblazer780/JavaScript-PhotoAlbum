@@ -4,6 +4,7 @@
 This program is written in JavaScript and is a photo album that you can make comments on.
 
 How to use:
+
 To use this web application you need to have npm installed on your computer to run the webpack commands.
 1. Open the terminal and run the command `npm run  app`
 2. Go on your web browser and hit `http://localhost:5000`
